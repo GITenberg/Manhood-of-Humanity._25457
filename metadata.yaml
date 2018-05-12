@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31349
     wikipedia: http://en.wikipedia.org/wiki/Alfred_Korzybski
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25457#Manhood-of-Humanity.
 gutenberg_issued: '2008-05-13'
 gutenberg_type: Text
 identifiers:
